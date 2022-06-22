@@ -1,3 +1,5 @@
 {
-  "protocol": "tcp/ip"
+  "protocol": "tcp/ip",
+  "foo": "bar",
+  "id": 1233456
 }
